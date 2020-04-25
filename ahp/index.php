@@ -75,10 +75,10 @@
 <body>
 
     <div class="sidebar">
-        <a class="active" href="#home">Home</a>
+        <a href="#home">Home</a>
         <a href="../saw">SAW</a>
         <a href="../wp">WP</a>
-        <a href="../ahp">AHP</a>
+        <a class="active" href="../ahp">AHP</a>
         <a href="../moora">MOORA</a>
         <a href="../topsis">TOPSIS</a>
         <a href="../electree">ELECTREE</a>
