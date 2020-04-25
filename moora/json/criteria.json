@@ -1,0 +1,31 @@
+[{
+        "name": "Pendapatan",
+        "bobot": "0.25",
+        "type": "cost",
+        "code": "C1"
+    },
+    {
+        "name": "Lamanya Warga Tinggal(tahun) ",
+        "bobot": "0.2",
+        "type": "benefits",
+        "code": "C2"
+    },
+    {
+        "name": "Perkerjaan",
+        "bobot": "0.2",
+        "type": "cost",
+        "code": "C3"
+    },
+    {
+        "name": "Jenis Dinding Rumah ",
+        "bobot": "0.2",
+        "type": "cost",
+        "code": "C4"
+    },
+    {
+        "name": "Jenis Lantai Rumah ",
+        "bobot": "0.15",
+        "type": "cost",
+        "code": "C5"
+    }
+]

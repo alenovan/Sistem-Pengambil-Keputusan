@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Fasilitas Pendukung",
+        "bobot": "30",
+        "type": "benefits",
+        "code": "C1"
+    },
+    {
+        "name": "Harga bangunan/ m2",
+        "bobot": "20",
+        "type": "cost",
+        "code": "C2"
+    },
+    {
+        "name": "Tahun Kontruksi Bangunan",
+        "bobot": "20",
+        "type": "benefits",
+        "code": "C3"
+    },
+    {
+        "name": "Jarak Dari Tempat Kerja",
+        "bobot": "20",
+        "type": "cost",
+        "code": "C4"
+    },
+    {
+        "name": "Sistem keamanan apartemen",
+        "bobot": "10",
+        "type": "benefits",
+        "code": "C5"
+    }
+]

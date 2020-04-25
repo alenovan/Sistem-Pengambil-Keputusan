@@ -1,0 +1,62 @@
+[{
+        "code": "A1",
+        "alternatif": "Adelan",
+        "criteria": "5",
+        "value": [500000, 15, 0.25, 0.5, 0.5]
+    },
+    {
+        "code": "A2",
+        "alternatif": "Suwito",
+        "criteria": "5",
+        "value": [600000, 6, 0.5, 0.5, 0.5]
+    },
+    {
+        "code": "A3",
+        "alternatif": "Manisem",
+        "criteria": "5",
+        "value": [1000000, 3, 0.75, 0.5, 0.25]
+    },
+    {
+        "code": "A4",
+        "alternatif": "Kardik",
+        "criteria": "5",
+        "value": [650000, 10, 0.5, 0.5, 0.5]
+    },
+    {
+        "code": "A5",
+        "alternatif": "Mislam",
+        "criteria": "5",
+        "value": [500000, 7, 0.25, 0.5, 0.5]
+    },
+    {
+        "code": "A6",
+        "alternatif": "Sukirah",
+        "criteria": "5",
+        "value": [600000, 3, 0.5, 0.25, 0.25]
+    },
+    {
+        "code": "A7",
+        "alternatif": "Nuriadi",
+        "criteria": "5",
+        "value": [400000, 5, 0.25, 0.25, 0.25]
+    },
+    {
+        "code": "A8",
+        "alternatif": "Sutiyem",
+        "criteria": "5",
+        "value": [700000, 10, 0.5, 0.5, 0.5]
+    },
+    {
+        "code": "A9",
+        "alternatif": "Poniman",
+        "criteria": "5",
+        "value": [500000, 8, 0.25, 0.5, 0.5]
+    },
+    {
+        "code": "A10",
+        "alternatif": "Sugiatik ",
+        "criteria": "5",
+        "value": [1200000, 10, 0.75, 0.5, 0.5]
+    }
+
+]

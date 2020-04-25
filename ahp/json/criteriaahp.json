@@ -1,0 +1,46 @@
+[
+    {
+        "code": "C1",
+        "ctr": "pangsa pasar pelanggan",
+        "sum_ctr": "4",
+        "value": [
+            "1.00",
+            "3.00",
+            "0.50",
+            "0.25"
+        ]
+    },
+    {
+        "code": "C2",
+        "ctr": "tingkat pendapatan",
+        "sum_ctr": "4",
+        "value": [
+            "0.33",
+            "1.00",
+            "0.20",
+            "0.33"
+        ]
+    },
+    {
+        "code": "C3",
+        "ctr": "insfrastruktur",
+        "sum_ctr": "4",
+        "value": [
+            "2.00",
+            "5.00",
+            "1.00",
+            "0.50"
+        ]
+    },
+    {
+        "code": "C4",
+        "ctr": "transportasi",
+        "sum_ctr": "4",
+        "value": [
+            "4.00",
+            "3.00",
+            "2.00",
+            "1.00"
+        ]
+    }
+]

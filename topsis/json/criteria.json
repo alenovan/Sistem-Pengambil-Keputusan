@@ -1,0 +1,25 @@
+[{
+        "name": "C1",
+        "bobot": "30",
+        "type": "benefits",
+        "code": "C1"
+    },
+    {
+        "name": "C2",
+        "bobot": "25",
+        "type": "benefits",
+        "code": "C2"
+    },
+    {
+        "name": "C3",
+        "bobot": "20",
+        "type": "benefits",
+        "code": "C3"
+    },
+    {
+        "name": "C4",
+        "bobot": "25",
+        "type": "cost",
+        "code": "C4"
+    }
+]
