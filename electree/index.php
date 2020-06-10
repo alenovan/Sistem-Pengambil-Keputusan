@@ -118,36 +118,36 @@
             <h3><b>Normalisasi Matrix Keputusan</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th></th>
-                    <th>C1</th>
-                    <th>C2</th>
-                    <th>C3</th>
-                    <th>C4</th>
-                    <th>C5</th>
+                    <td></td>
+                    <td>C1</td>
+                    <td>C2</td>
+                    <td>C3</td>
+                    <td>C4</td>
+                    <td>C5</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th><?php echo $c1a1 ?></th>
-                    <th><?php echo $c2a1 ?></th>
-                    <th><?php echo $c3a1 ?></th>
-                    <th><?php echo $c4a1 ?></th>
-                    <th><?php echo $c5a1 ?></th>
+                    <td>A1</td>
+                    <td><?php echo $c1a1 ?></td>
+                    <td><?php echo $c2a1 ?></td>
+                    <td><?php echo $c3a1 ?></td>
+                    <td><?php echo $c4a1 ?></td>
+                    <td><?php echo $c5a1 ?></td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th><?php echo $c1a2 ?></th>
-                    <th><?php echo $c2a2 ?></th>
-                    <th><?php echo $c3a2 ?></th>
-                    <th><?php echo $c4a2 ?></th>
-                    <th><?php echo $c5a2 ?></th>
+                    <td>A2</td>
+                    <td><?php echo $c1a2 ?></td>
+                    <td><?php echo $c2a2 ?></td>
+                    <td><?php echo $c3a2 ?></td>
+                    <td><?php echo $c4a2 ?></td>
+                    <td><?php echo $c5a2 ?></td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th><?php echo $c1a3 ?></th>
-                    <th><?php echo $c2a3 ?></th>
-                    <th><?php echo $c3a3 ?></th>
-                    <th><?php echo $c4a3 ?></th>
-                    <th><?php echo $c5a3 ?></th>
+                    <td>A3</td>
+                    <td><?php echo $c1a3 ?></td>
+                    <td><?php echo $c2a3 ?></td>
+                    <td><?php echo $c3a3 ?></td>
+                    <td><?php echo $c4a3 ?></td>
+                    <td><?php echo $c5a3 ?></td>
                 </tr>
                 <?php
                 // Perhitungan matrix R
@@ -177,36 +177,36 @@
             <h3><b>Matrix Normalisasi R</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>R</th>
-                    <th>C1</th>
-                    <th>C2</th>
-                    <th>C3</th>
-                    <th>C4</th>
-                    <th>C5</th>
+                    <td>R</td>
+                    <td>C1</td>
+                    <td>C2</td>
+                    <td>C3</td>
+                    <td>C4</td>
+                    <td>C5</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th><?php echo $rc1a1 ?></th>
-                    <th><?php echo $rc2a1 ?></th>
-                    <th><?php echo $rc3a1 ?></th>
-                    <th><?php echo $rc4a1 ?></th>
-                    <th><?php echo $rc5a1 ?></th>
+                    <td>A1</td>
+                    <td><?php echo $rc1a1 ?></td>
+                    <td><?php echo $rc2a1 ?></td>
+                    <td><?php echo $rc3a1 ?></td>
+                    <td><?php echo $rc4a1 ?></td>
+                    <td><?php echo $rc5a1 ?></td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th><?php echo $rc1a2 ?></th>
-                    <th><?php echo $rc2a2 ?></th>
-                    <th><?php echo $rc3a2 ?></th>
-                    <th><?php echo $rc4a2 ?></th>
-                    <th><?php echo $rc5a2 ?></th>
+                    <td>A2</td>
+                    <td><?php echo $rc1a2 ?></td>
+                    <td><?php echo $rc2a2 ?></td>
+                    <td><?php echo $rc3a2 ?></td>
+                    <td><?php echo $rc4a2 ?></td>
+                    <td><?php echo $rc5a2 ?></td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th><?php echo $rc1a3 ?></th>
-                    <th><?php echo $rc2a3 ?></th>
-                    <th><?php echo $rc3a3 ?></th>
-                    <th><?php echo $rc4a3 ?></th>
-                    <th><?php echo $rc5a3 ?></th>
+                    <td>A3</td>
+                    <td><?php echo $rc1a3 ?></td>
+                    <td><?php echo $rc2a3 ?></td>
+                    <td><?php echo $rc3a3 ?></td>
+                    <td><?php echo $rc4a3 ?></td>
+                    <td><?php echo $rc5a3 ?></td>
                 </tr>
                 <?php
                 // Perhitungan matrix V
@@ -236,76 +236,76 @@
             <h3><b>Matrix V Hasil Pembobotan</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>V</th>
-                    <th>C1</th>
-                    <th>C2</th>
-                    <th>C3</th>
-                    <th>C4</th>
-                    <th>C5</th>
+                    <td>V</td>
+                    <td>C1</td>
+                    <td>C2</td>
+                    <td>C3</td>
+                    <td>C4</td>
+                    <td>C5</td>
                 </tr>
                 <tr>
-                    <th>Bobot</th>
-                    <th><?php echo $bc1 ?></th>
-                    <th><?php echo $bc2 ?></th>
-                    <th><?php echo $bc3 ?></th>
-                    <th><?php echo $bc4 ?></th>
-                    <th><?php echo $bc5 ?></th>
+                    <td>Bobot</td>
+                    <td><?php echo $bc1 ?></td>
+                    <td><?php echo $bc2 ?></td>
+                    <td><?php echo $bc3 ?></td>
+                    <td><?php echo $bc4 ?></td>
+                    <td><?php echo $bc5 ?></td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th><?php echo $vc1a1 ?></th>
-                    <th><?php echo $vc2a1 ?></th>
-                    <th><?php echo $vc3a1 ?></th>
-                    <th><?php echo $vc4a1 ?></th>
-                    <th><?php echo $vc5a1 ?></th>
+                    <td>A1</td>
+                    <td><?php echo $vc1a1 ?></td>
+                    <td><?php echo $vc2a1 ?></td>
+                    <td><?php echo $vc3a1 ?></td>
+                    <td><?php echo $vc4a1 ?></td>
+                    <td><?php echo $vc5a1 ?></td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th><?php echo $vc1a2 ?></th>
-                    <th><?php echo $vc2a2 ?></th>
-                    <th><?php echo $vc3a2 ?></th>
-                    <th><?php echo $vc4a2 ?></th>
-                    <th><?php echo $vc5a2 ?></th>
+                    <td>A2</td>
+                    <td><?php echo $vc1a2 ?></td>
+                    <td><?php echo $vc2a2 ?></td>
+                    <td><?php echo $vc3a2 ?></td>
+                    <td><?php echo $vc4a2 ?></td>
+                    <td><?php echo $vc5a2 ?></td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th><?php echo $vc1a3 ?></th>
-                    <th><?php echo $vc2a3 ?></th>
-                    <th><?php echo $vc3a3 ?></th>
-                    <th><?php echo $vc4a3 ?></th>
-                    <th><?php echo $vc5a3 ?></th>
+                    <td>A3</td>
+                    <td><?php echo $vc1a3 ?></td>
+                    <td><?php echo $vc2a3 ?></td>
+                    <td><?php echo $vc3a3 ?></td>
+                    <td><?php echo $vc4a3 ?></td>
+                    <td><?php echo $vc5a3 ?></td>
                 </tr>
             </table>
             <!-- Matrix Corcondace ---------------------->
             <h3><b>Concordance Matrix</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th></th>
-                    <th>Index Kriteria</th>
+                    <td></td>
+                    <td>Index Kriteria</td>
                 </tr>
                 <tr>
-                    <th>C12</th>
-                    <th>2, 5</th>
+                    <td>C12</td>
+                    <td>2, 5</td>
                 </tr>
                 <tr>
-                    <th>C13</th>
-                    <th>2, 3</th>
+                    <td>C13</td>
+                    <td>2, 3</td>
                 </tr>
                 <tr>
-                    <th>C21</th>
-                    <th>1, 3, 4, 5</th>
+                    <td>C21</td>
+                    <td>1, 3, 4, 5</td>
                 </tr>
                 <tr>
-                    <th>C23</th>
-                    <th>1, 3, 4</th>
+                    <td>C23</td>
+                    <td>1, 3, 4</td>
                 </tr>
                 <tr>
-                    <th>C31</th>
-                    <th>1, 4, 5</th>
+                    <td>C31</td>
+                    <td>1, 4, 5</td>
                 </tr>
                 <tr>
-                    <th>C32</th>
-                    <th>2, 5</th>
+                    <td>C32</td>
+                    <td>2, 5</td>
                 </tr>
                 <?php
                 // Perhitungan Matrix Concordance C
@@ -318,7 +318,7 @@
                 $ca3a1 = $bc1 + $bc4 + $bc5;
                 $ca3a2 = $bc2 + $bc5;
                 $ca3a3 = 0;
-                // Threshold Concrodance
+                // tdreshold Concrodance
                 $tc = ($$c1a1 + $ca1a2 + $ca1a3 + $ca2a1 + $ca2a2
                     + $ca2a3 + $ca3a1 + $ca3a2 + $ca3a3) / (3 * (3 - 1));
                 ?>
@@ -327,46 +327,46 @@
             <h3><b>Matrix Concordance C</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>C</th>
-                    <th>A1</th>
-                    <th>A2</th>
-                    <th>A3</th>
+                    <td>C</td>
+                    <td>A1</td>
+                    <td>A2</td>
+                    <td>A3</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th><?php echo $ca1a1 ?></th>
-                    <th><?php echo $ca1a2 ?></th>
-                    <th><?php echo $ca1a3 ?></th>
+                    <td>A1</td>
+                    <td><?php echo $ca1a1 ?></td>
+                    <td><?php echo $ca1a2 ?></td>
+                    <td><?php echo $ca1a3 ?></td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th><?php echo $ca2a1 ?></th>
-                    <th><?php echo $ca2a2 ?></th>
-                    <th><?php echo $ca2a3 ?></th>
+                    <td>A2</td>
+                    <td><?php echo $ca2a1 ?></td>
+                    <td><?php echo $ca2a2 ?></td>
+                    <td><?php echo $ca2a3 ?></td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th><?php echo $ca3a1 ?></th>
-                    <th><?php echo $ca3a2 ?></th>
-                    <th><?php echo $ca3a3 ?></th>
+                    <td>A3</td>
+                    <td><?php echo $ca3a1 ?></td>
+                    <td><?php echo $ca3a2 ?></td>
+                    <td><?php echo $ca3a3 ?></td>
                 </tr>
                 <tr>
-                    <th>Threshold Concordance</th>
-                    <th><?php echo $tc ?></th>
+                    <td>tdreshold Concordance</td>
+                    <td><?php echo $tc ?></td>
                 </tr>
             </table>
             <!-- Matrix Dominan Corcondance F ----------------------->
             <h3><b>Matrix Dominan Concordance F</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>F</th>
-                    <th>A1</th>
-                    <th>A2</th>
-                    <th>A3</th>
+                    <td>F</td>
+                    <td>A1</td>
+                    <td>A2</td>
+                    <td>A3</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th>
+                    <td>A1</td>
+                    <td>
                         <?php
                         if ($ca1a1 > $tc) {
                             echo 1;
@@ -376,8 +376,8 @@
                             $fa11 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($ca1a2 > $tc) {
                             echo 1;
@@ -387,8 +387,8 @@
                             $fa12 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($ca1a3 > $tc) {
                             echo 1;
@@ -398,11 +398,11 @@
                             $fa13 = 0;
                         }
                         ?>
-                    </th>
+                    </td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th>
+                    <td>A2</td>
+                    <td>
                         <?php
                         if ($ca2a1 > $tc) {
                             echo 1;
@@ -412,8 +412,8 @@
                             $fa21 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($ca2a2 > $tc) {
                             echo 1;
@@ -423,8 +423,8 @@
                             $fa22 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($ca2a3 > $tc) {
                             echo 1;
@@ -434,11 +434,11 @@
                             $fa23 = 0;
                         }
                         ?>
-                    </th>
+                    </td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th>
+                    <td>A3</td>
+                    <td>
                         <?php
                         if ($ca3a1 > $tc) {
                             echo 1;
@@ -448,8 +448,8 @@
                             $fa31 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($ca3a2 > $tc) {
                             echo 1;
@@ -459,8 +459,8 @@
                             $fa32 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($ca3a3 > $tc) {
                             echo 1;
@@ -470,39 +470,39 @@
                             $fa33 = 0;
                         }
                         ?>
-                    </th>
+                    </td>
                 </tr>
             </table>
             <!-- Matrix Discordance ------------------------------->
             <h3><b>Discordance Matrix</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th></th>
-                    <th>Index Kriteria</th>
+                    <td></td>
+                    <td>Index Kriteria</td>
                 </tr>
                 <tr>
-                    <th>C12</th>
-                    <th>1, 3, 4</th>
+                    <td>C12</td>
+                    <td>1, 3, 4</td>
                 </tr>
                 <tr>
-                    <th>C13</th>
-                    <th>1, 4, 5</th>
+                    <td>C13</td>
+                    <td>1, 4, 5</td>
                 </tr>
                 <tr>
-                    <th>C21</th>
-                    <th>2</th>
+                    <td>C21</td>
+                    <td>2</td>
                 </tr>
                 <tr>
-                    <th>C23</th>
-                    <th>2, 5</th>
+                    <td>C23</td>
+                    <td>2, 5</td>
                 </tr>
                 <tr>
-                    <th>C31</th>
-                    <th>2, 3</th>
+                    <td>C31</td>
+                    <td>2, 3</td>
                 </tr>
                 <tr>
-                    <th>C32</th>
-                    <th>1, 3, 4</th>
+                    <td>C32</td>
+                    <td>1, 3, 4</td>
                 </tr>
                 <?php
                 // Perhitungan Matrix Discordance D
@@ -557,7 +557,7 @@
                         abs($vc5a3 - $vc5a2)
                     );
                 $da3a3 = 0;
-                // Threshold Discrodance
+                // tdreshold Discrodance
                 $td = ($da1a1 + $da1a2 + $da1a3 + $da2a1 + $da2a2
                     + $da2a3 + $da3a1 + $da3a2 + $da3a3) / (3 * (3 - 1));
                 ?>
@@ -566,46 +566,46 @@
             <h3><b>Matrix Discordance D</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>D</th>
-                    <th>A1</th>
-                    <th>A2</th>
-                    <th>A3</th>
+                    <td>D</td>
+                    <td>A1</td>
+                    <td>A2</td>
+                    <td>A3</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th><?php echo $da1a1 ?></th>
-                    <th><?php echo $da1a2 ?></th>
-                    <th><?php echo $da1a3 ?></th>
+                    <td>A1</td>
+                    <td><?php echo $da1a1 ?></td>
+                    <td><?php echo $da1a2 ?></td>
+                    <td><?php echo $da1a3 ?></td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th><?php echo $da2a1 ?></th>
-                    <th><?php echo $da2a2 ?></th>
-                    <th><?php echo $da2a3 ?></th>
+                    <td>A2</td>
+                    <td><?php echo $da2a1 ?></td>
+                    <td><?php echo $da2a2 ?></td>
+                    <td><?php echo $da2a3 ?></td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th><?php echo $da3a1 ?></th>
-                    <th><?php echo $da3a2 ?></th>
-                    <th><?php echo $da3a3 ?></th>
+                    <td>A3</td>
+                    <td><?php echo $da3a1 ?></td>
+                    <td><?php echo $da3a2 ?></td>
+                    <td><?php echo $da3a3 ?></td>
                 </tr>
                 <tr>
-                    <th>Threshold Discordance</th>
-                    <th><?php echo $td ?></th>
+                    <td>tdreshold Discordance</td>
+                    <td><?php echo $td ?></td>
                 </tr>
             </table>
             <!-- Matrix Dominan Discordance G ----------------------->
             <h3><b>Matrix Dominan Discordance G</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>G</th>
-                    <th>A1</th>
-                    <th>A2</th>
-                    <th>A3</th>
+                    <td>G</td>
+                    <td>A1</td>
+                    <td>A2</td>
+                    <td>A3</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th>
+                    <td>A1</td>
+                    <td>
                         <?php
                         if ($da1a1 > $td) {
                             echo 1;
@@ -615,8 +615,8 @@
                             $ga11 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($da1a2 > $td) {
                             echo 1;
@@ -626,8 +626,8 @@
                             $ga12 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($da1a3 > $td) {
                             echo 1;
@@ -637,11 +637,11 @@
                             $ga13 = 0;
                         }
                         ?>
-                    </th>
+                    </td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th>
+                    <td>A2</td>
+                    <td>
                         <?php
                         if ($da2a1 > $td) {
                             echo 1;
@@ -651,8 +651,8 @@
                             $ga21 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($da2a2 > $td) {
                             echo 1;
@@ -662,8 +662,8 @@
                             $ga22 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($da2a3 > $td) {
                             echo 1;
@@ -673,11 +673,11 @@
                             $ga23 = 0;
                         }
                         ?>
-                    </th>
+                    </td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th>
+                    <td>A3</td>
+                    <td>
                         <?php
                         if ($da3a1 > $td) {
                             echo 1;
@@ -687,8 +687,8 @@
                             $ga31 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($da3a2 > $td) {
                             echo 1;
@@ -698,8 +698,8 @@
                             $ga32 = 0;
                         }
                         ?>
-                    </th>
-                    <th>
+                    </td>
+                    <td>
                         <?php
                         if ($da3a3 > $td) {
                             echo 1;
@@ -709,35 +709,35 @@
                             $ga33 = 0;
                         }
                         ?>
-                    </th>
+                    </td>
                 </tr>
             </table>
             <!-- Matrix Agresi E ----------------------->
             <h3><b>Matrix Agresi E</b></h3>
             <table class="table table-bordered">
                 <tr style="">
-                    <th>E</th>
-                    <th>A1</th>
-                    <th>A2</th>
-                    <th>A3</th>
+                    <td>E</td>
+                    <td>A1</td>
+                    <td>A2</td>
+                    <td>A3</td>
                 </tr>
                 <tr>
-                    <th>A1</th>
-                    <th><?php echo $fa11 * $ga11 ?></th>
-                    <th><?php echo $fa12 * $ga12 ?></th>
-                    <th><?php echo $fa13 * $ga13 ?></th>
+                    <td>A1</td>
+                    <td><?php echo $fa11 * $ga11 ?></td>
+                    <td><?php echo $fa12 * $ga12 ?></td>
+                    <td><?php echo $fa13 * $ga13 ?></td>
                 </tr>
                 <tr>
-                    <th>A2</th>
-                    <th><?php echo $fa21 * $ga21 ?></th>
-                    <th><?php echo $fa22 * $ga22 ?></th>
-                    <th><?php echo $fa23 * $ga23 ?></th>
+                    <td>A2</td>
+                    <td><?php echo $fa21 * $ga21 ?></td>
+                    <td><?php echo $fa22 * $ga22 ?></td>
+                    <td><?php echo $fa23 * $ga23 ?></td>
                 </tr>
                 <tr>
-                    <th>A3</th>
-                    <th><?php echo $fa31 * $ga31 ?></th>
-                    <th><?php echo $fa32 * $ga32 ?></th>
-                    <th><?php echo $fa33 * $ga33 ?></th>
+                    <td>A3</td>
+                    <td><?php echo $fa31 * $ga31 ?></td>
+                    <td><?php echo $fa32 * $ga32 ?></td>
+                    <td><?php echo $fa33 * $ga33 ?></td>
                 </tr>
             </table>
             <h3><b>Pilihan yang terpilih adalah Apartemen 2 dan Apartemen 3</b></h3>
