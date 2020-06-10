@@ -199,7 +199,7 @@
                     <center>
                         <h3><b>Bobot Borda</b></h3>
                     </center>
-                    <div class="col-sm-6">
+                    <div class="col-sm-12">
                         <table class="table table-bordered">
                             <tr>
                                 <td>Ranking 1</td>
